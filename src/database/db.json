@@ -1,0 +1,23 @@
+[
+    
+        {
+            "id":1,
+            "checked":false,
+            "item":"Artificial Intelligence",
+            "image":"https://redingtoncloud.com/blog/wp-content/uploads/2019/02/Artificial-intelligence-is-here-to-stay-1024x576-1.jpg"
+        },
+        {
+            "id":2,
+            "checked":true,
+            "item":"DataFication",
+            "image":"https://t3.ftcdn.net/jpg/05/94/89/64/360_F_594896492_HdIgIvp9KC8qbo0LCcGJfIVYPbK9reku.jpg"
+        },
+        {
+            "id":3,
+            "checked":false,
+            "item":"Digital Trust",
+            "image":"https://media.istockphoto.com/id/1271787791/photo/login-and-password-cyber-security-concept-data-protection-and-secured-internet-access.jpg?s=612x612&w=0&k=20&c=y3P5heHjYJfItFFN-DJmnJUVCVA7QjrGE3YRGh9Ua08="
+        }
+      
+    
+    ]
